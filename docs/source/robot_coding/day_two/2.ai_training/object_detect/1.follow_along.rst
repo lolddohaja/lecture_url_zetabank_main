@@ -91,4 +91,4 @@ Follow Along!
         Image(filename=output_path+'/detect_result.jpg') 
 
 
-    .. thumbnail:: /_images/ai_training/detect_result.png
+    .. thumbnail:: /_images/ai_training/object_det2.jpg
