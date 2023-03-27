@@ -34,7 +34,7 @@ To foster future talent, we from ZetaBank provides the Philosophy of Education.
 
 Education based on information cramming:
 
-   .. thumbnail:: /_images/ai_training/cramming.jpg
+   .. thumbnail:: /_images/ai_training/0.intro/cramming.jpg
       :width: 250
 |
 
@@ -42,13 +42,13 @@ In Education Provided by ZetaBank:
 
 - We Provide Self-Learning Opportunities:
 
-  .. thumbnail:: /_images/ai_training/zeta_edu.jpg
+  .. thumbnail:: /_images/ai_training/0.intro/zeta_edu.jpg
    :width: 250
 |
 
 - We Provide Communication and Cooperation Training:
 
-  .. thumbnail:: /_images/ai_training/zeta_edu2.jpg
+  .. thumbnail:: /_images/ai_training/0.intro/zeta_edu2.jpg
    :width: 250
 
 
@@ -85,14 +85,14 @@ In Education Provided by ZetaBank:
     :hidden:
     :caption: Robot Coding Practice Day 1
 
-    robot_coding/lecture/1.robot_control/index
-    robot_coding/lecture/2.ai_training/index
-    robot_coding/lecture/3.driving_ex/index
-    robot_coding/lecture/4.slam_nav/index
-    robot_coding/lecture/5.robot_arm_ex/index
-    robot_coding/lecture/6.cv/index
-    robot_coding/lecture/7.digital_twin/index
-    robot_coding/lecture/8.chat_gpt/index
+    robot_coding/day_one/1.robot_control/index
+    robot_coding/day_one/2.ai_training/index
+    robot_coding/day_one/3.driving_ex/index
+    robot_coding/day_one/4.slam_nav/index
+    robot_coding/day_one/5.robot_arm_ex/index
+    robot_coding/day_one/6.cv/index
+    robot_coding/day_one/7.digital_twin/index
+    robot_coding/day_one/8.chat_gpt/index
    
    
 .. toctree:: 

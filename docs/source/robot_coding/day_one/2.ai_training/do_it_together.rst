@@ -51,7 +51,7 @@ Create a new python file in the Jupyter Notebook Environment:
 -   Rename the untitiled python file to ``02_3-1. team_mission.py``
 
 
-    .. thumbnail:: /_images/ai_training/team_mission1.png
+    .. thumbnail:: /_images/ai_training/day_one/team_mission1.png
 
 |
 
@@ -133,7 +133,7 @@ Create a new python file in the Jupyter Notebook Environment:
     -   | Running the cell code
         | `Ctrl + Enter`
 
-    .. thumbnail:: /_images/ai_training/team_mission2.png
+    .. thumbnail:: /_images/ai_training/day_one/team_mission2.png
 
 |
 

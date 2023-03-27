@@ -33,11 +33,11 @@ Open the provided jupyter notebook
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. thumbnail:: /_images/autonomous_driving/robot_drive1.png
+.. thumbnail:: /_images/autonomous_driving/day_one/robot_drive1.png
 
 |
 
-.. thumbnail:: /_images/autonomous_driving/robot_drive2.png
+.. thumbnail:: /_images/autonomous_driving/day_one/robot_drive2.png
 
 |
 
@@ -190,7 +190,7 @@ Open the jupyter notebook
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. thumbnail:: /_images/autonomous_driving/odometry1.png
+.. thumbnail:: /_images/autonomous_driving/day_one/odometry1.png
 
 |
 

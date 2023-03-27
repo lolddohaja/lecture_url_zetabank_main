@@ -38,7 +38,7 @@ Open the gogolenet_mission python notebook:
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. thumbnail:: /_images/ai_training/google_mission.png
+.. thumbnail:: /_images/ai_training/day_one/google_mission.png
 
 
 

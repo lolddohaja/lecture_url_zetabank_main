@@ -5,13 +5,13 @@ Follow Along!
 
     <div style="background: #C3F8FF" class="admonition note custom">
         <p style="background: light-blue" class="admonition-title">
-            Follow along: GoogleNet Example
+            Follow along: AlexNet Example
         </p>
         <div class="line-block">
             <div class="line">The program launching process along with parameter settings are all simplified and set up on the Jupyter Notebook Environment.</div>
         </div>
         <ul>
-            <li>Open the googlenet.ipynb jupyter notebook</li>
+            <li>Open the alexnet.ipynb jupyter notebook</li>
             <li>Import the necessary libraries</li>
             <li>With the input picture, execute the image recognition</li>
             <li>Terminate the task upon its completion</li>
@@ -24,11 +24,11 @@ Follow Along!
     <hr>
 
 
--   02_1-1. Detect oranges in images - googlenet.ipynb
+-   02_2-1. Detect oranges in images - alexnet.ipynb
 -   | Running the cell code
     | `Ctrl + Enter`
 
-.. thumbnail:: /_images/ai_training/googlenet1.png
+.. thumbnail:: /_images/ai_training/day_one/alexnet1.png
 
 
 -   Import the subprocess module to run the example scripts (i.e. show.sh, kill.sh)
@@ -48,7 +48,7 @@ Follow Along!
         subprocess.call((run_command_before.split('\n')), shell=True)
 
 
-    .. thumbnail:: /_images/ai_training/googlenet2.png
+    .. thumbnail:: /_images/ai_training/day_one/googlenet2.png
 
 |
 
@@ -66,7 +66,7 @@ Follow Along!
     .. code-block:: python
 
         # Detect objects
-        detect_command_orange = 'bash ~/ai_example/detect.sh orange_googlenet'
+        detect_command_orange = 'bash ~/ai_example/detect.sh orange_alexnet'
         subprocess.call((detect_command_orange.split('\n')), shell=True)
 
 -   Output the result on the image window
@@ -74,12 +74,12 @@ Follow Along!
     .. code-block:: python
 
         # Check the detected image
-        run_command_after = 'bash ~/ai_example/show.sh orange after googlenet'
+        run_command_after = 'bash ~/ai_example/show.sh orange after alexnet'
         subprocess.call((run_command_after.split('\n')), shell=True)
 
 
 
-    .. thumbnail:: /_images/ai_training/googlenet3.png
+    .. thumbnail:: /_images/ai_training/day_one/alexnet2.png
 
 |
 
@@ -91,3 +91,5 @@ Follow Along!
         # terminating the process
         kill_command_after = 'bash ~/ai_example/kill.sh display'
         subprocess.call((kill_command_after.split('\n')), shell=True)
+
+

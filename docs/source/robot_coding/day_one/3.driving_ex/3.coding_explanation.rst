@@ -262,5 +262,5 @@ After assigning the Subscribed functions to the thread and starting the thread, 
 
 Now, whenever the robot is moved with the move information created above, the odometry information will be calculated and displayed automatically. 
 
-.. thumbnail:: /_images/ai_training/odom_info.png 
+.. thumbnail:: /_images/autonomous_driving/day_one/odom_info.png 
 

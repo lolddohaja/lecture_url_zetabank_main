@@ -9,7 +9,7 @@ When it comes to navigation within robotics, it is the movement of the robot to 
 we would need to know where our robot is, what our surroundings look like (map), the optimal route and a way to avoid 
 obstacles. 
 
-.. thumbnail:: /_images/ai_training/navigation_pic.png
+.. thumbnail:: /_images/autonomous_driving/day_one/navigation_pic.png
 
 |
 

@@ -42,7 +42,7 @@ specific range with N particles. Initially each of the particles have 1/N weight
 is empirically determined. 
 If the initial position is explicitly defined, the particles may be arranged near the robot instead of randomly scattered. 
 
-.. thumbnail:: /_images/ai_training/init.png
+.. thumbnail:: /_images/autonomous_driving/day_one/init.png
 
 |
 
@@ -51,7 +51,7 @@ If the initial position is explicitly defined, the particles may be arranged nea
 
 With the odometry and sensory values and noise, graudally move (predict) each particles location (based on the system model).
 
-.. thumbnail:: /_images/ai_training/mot.png
+.. thumbnail:: /_images/autonomous_driving/day_one/mot.png
 
 |
 
@@ -60,7 +60,7 @@ With the odometry and sensory values and noise, graudally move (predict) each pa
 
 Based on the measured sensor information, the probability of each particle is calculated and the **weight value** of each particle is updated based on the calculated probability. 
 
-.. thumbnail:: /_images/ai_training/we_up.png
+.. thumbnail:: /_images/autonomous_driving/day_one/we_up.png
 
 |
 
@@ -76,14 +76,14 @@ The position, orientation, and weight of all paricles are used to calculate the 
 Generate new particles that inherit the pose information of the weighted particles. The number of particles must be maintained, hence, with the addition of new particles
 particles with less weight are removed. 
 
-.. thumbnail:: /_images/ai_training/res.png
+.. thumbnail:: /_images/autonomous_driving/day_one/res.png
 
 |
 
 
 By repeating the steps 2 ~ 5 we may end up with visualization below:
 
-.. thumbnail:: /_images/ai_training/final.png
+.. thumbnail:: /_images/autonomous_driving/day_one/final.png
 
 | 
 

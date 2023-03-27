@@ -7,7 +7,7 @@ We promote Havruta educational methods, which bases education on verbal communic
 
 All our classes are to be student-centered participatory classes. 
 
-.. thumbnail:: /_images/ai_training/edu.png
+.. thumbnail:: /_images/ai_training/0.intro/edu.png
 
 
 Educational AI Robot Contents
@@ -23,9 +23,9 @@ Autonomous Driving SW
 
 .. list-table::
 
-    * - .. thumbnail:: /_images/ai_training/black_robot.jpg
+    * - .. thumbnail:: /_images/ai_training/0.intro/black_robot.jpg
             :group: basic1
-      - .. thumbnail:: /_images/ai_training/dino_robot.png
+      - .. thumbnail:: /_images/ai_training/0.intro/dino_robot.png
             :group: basic1
 
 
@@ -33,9 +33,9 @@ Autonomous Driving SW
 
 .. list-table::
 
-    * - .. thumbnail:: /_images/ai_training/black_hand.png
+    * - .. thumbnail:: /_images/ai_training/0.intro/black_hand.png
             :group: basic2
-      - .. thumbnail:: /_images/ai_training/white_hand.png
+      - .. thumbnail:: /_images/ai_training/0.intro/white_hand.png
             :group: basic2
 
 
@@ -52,10 +52,10 @@ We allow for students to experience AI applications with
 
 .. list-table::
 
-    * - .. thumbnail:: /_images/ai_training/mini_robot1.png
+    * - .. thumbnail:: /_images/ai_training/0.intro/mini_robot1.png
             :group: basic1
             :width: 80 %
-      - .. thumbnail:: /_images/ai_training/mini_robot2.png
+      - .. thumbnail:: /_images/ai_training/0.intro/mini_robot2.png
             :group: basic1
 
 
@@ -63,7 +63,7 @@ We allow for students to experience AI applications with
 
 .. list-table::
 
-    * - .. thumbnail:: /_images/ai_training/mini_robot3.png
+    * - .. thumbnail:: /_images/ai_training/0.intro/mini_robot3.png
 
 
 DIY KIT
@@ -77,9 +77,9 @@ We Provide hands on assembly experience with our DIY KIT series.
     * - Autonomous Kit
       - AI Kit
       - Expert Kit
-    * - .. thumbnail:: /_images/build_tutorial/AUTONOMOUS_KIT_(RED).png
-      - .. thumbnail:: /_images/build_tutorial/AI_KIT.png
-      - .. thumbnail:: /_images/build_tutorial/EXPERT_KIT.png
+    * - .. thumbnail:: /_images/ai_training/0.intro/AUTONOMOUS_KIT_(RED).png
+      - .. thumbnail:: /_images/ai_training/0.intro/AI_KIT.png
+      - .. thumbnail:: /_images/ai_training/0.intro/EXPERT_KIT.png
 
 
 
@@ -90,9 +90,9 @@ We provide variety of maps which can be used with our dancing robot and drawing 
 
 **Maps for Autonomous Driving:**
 
-.. thumbnail:: /_images/ai_training/map1.png
+.. thumbnail:: /_images/ai_training/0.intro/map1.png
 
-.. thumbnail:: /_images/ai_training/map2.png
+.. thumbnail:: /_images/ai_training/0.intro/map2.png
 
 
 Simulation
@@ -100,9 +100,9 @@ Simulation
 
 We provide virtual simulation of our robot, where AI reinforced learning and many other application be simulated. 
 
-.. thumbnail:: /_images/ai_training/sim1.png
+.. thumbnail:: /_images/ai_training/0.intro/sim1.png
 
-.. thumbnail:: /_images/ai_training/sim2.png
+.. thumbnail:: /_images/ai_training/0.intro/sim2.png
 
 |
 |
@@ -115,7 +115,7 @@ Furthermore, we provide team-by-team management of robots.
 
 - Per Student Login Availability
   
-  .. thumbnail:: /_images/ai_training/login1.png
+  .. thumbnail:: /_images/ai_training/0.intro/login1.png
 
 .. .. thumbnail:: /_images/ai_training/login2.png
 
@@ -126,12 +126,12 @@ Furthermore, we provide team-by-team management of robots.
 
     * - Student 1 workspace
       - Student 2 workspace
-    * - .. thumbnail:: /_images/ai_training/login3.png
-      - .. thumbnail:: /_images/ai_training/login4.png
+    * - .. thumbnail:: /_images/ai_training/0.intro/login3.png
+      - .. thumbnail:: /_images/ai_training/0.intro/login4.png
 
 - Team Management
 
-  .. thumbnail:: /_images/ai_training/login5.png
+  .. thumbnail:: /_images/ai_training/0.intro/login5.png
 
 
 Team-Specific Robot Development System
@@ -140,8 +140,8 @@ Team-Specific Robot Development System
 Our ZetaBank educational program provides **Pair Programming** sessions to advance artificial intelligence knowledge as well as robotics knowledge on 
 our own intelligent robots. 
 
-.. thumbnail:: /_images/ai_training/slide-picture.png
+.. thumbnail:: /_images/ai_training/0.intro/slide-picture.png
 
-.. thumbnail:: /_images/ai_training/slide-picture2.png
+.. thumbnail:: /_images/ai_training/0.intro/slide-picture2.png
 
   

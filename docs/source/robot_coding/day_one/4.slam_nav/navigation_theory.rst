@@ -29,14 +29,14 @@ The calculation parameters for these values are predetermined within our zetabot
 - 253~254: Collision area
 - 255: Occupied area where robot can not move
 
-.. thumbnail:: /_images/ai_training/cost.png
+.. thumbnail:: /_images/autonomous_driving/day_one/cost.png
 
 |
 
 We may also visualize the costmap value with gray scale. The darker the pixels get, more likely there is an obstable. 
 The green points represent obstacles found using the distance sensor. 
 
-.. thumbnail:: /_images/ai_training/cost_rep.png
+.. thumbnail:: /_images/autonomous_driving/day_one/cost_rep.png
 
 |
 
@@ -55,7 +55,7 @@ First, the belief (posterior probability using Bayesian update formula) of the l
 (X, Y, Angle) values as X_0, distance inforamtion obtained from the distance sensor up to time t as Z_0 and movement
 information obtained from the encoder up to time t as U_0. 
 
-.. thumbnail:: /_images/ai_training/bel.png
+.. thumbnail:: /_images/autonomous_driving/day_one/bel.png
 
 |
 
@@ -71,7 +71,7 @@ Within this step, the position of the robot at the next time frame is calculated
 (which is a probability of x in relation to the hardware error), belief probability at the previous position and the 
 movement information from the encoders.
 
-.. thumbnail:: /_images/ai_training/bel_pred.png
+.. thumbnail:: /_images/autonomous_driving/day_one/bel_pred.png
 
 |
 
@@ -81,7 +81,7 @@ Update
 For update step, we use the established sensor model probability which includes the hardware error, belief probability of
 the current position and normalization constant eta. 
 
-.. thumbnail:: /_images/ai_training/bel_update.png
+.. thumbnail:: /_images/autonomous_driving/day_one/bel_update.png
 
 |
 
@@ -90,20 +90,20 @@ using the calculated probability bel(*x_i*) of the current position. With MCL al
 process with our samples instead of particles. For AMCL, we extract a new sample set using the robot movement model at the probability belief of the previous position. 
 For these new sample set, the weight is calculated using the distance inforamtion, and normalization constant eta. 
 
-.. thumbnail:: /_images/ai_training/bel_w.png
+.. thumbnail:: /_images/autonomous_driving/day_one/bel_w.png
 
 |
 
 And in our resampling step, we create N samples of new X sampling (particle) sets using the new sampled x set and weight calculated for the new sampled x set. 
 
-.. thumbnail:: /_images/ai_training/bel_final.png
+.. thumbnail:: /_images/autonomous_driving/day_one/bel_final.png
 
 |
 
 When this process is repeated, while the robot is moving, the proabbility of the estimated robot position increases in accuracy. 
 For example, on the image below, we can see the converging location from t1 time frame to t5 time frame. All this process is referred to as "Probabilistic Robotics".
 
-.. thumbnail:: /_images/ai_training/bel_final2.png
+.. thumbnail:: /_images/autonomous_driving/day_one/bel_final2.png
 
 Dynamic Window Approach (DWA)
 ---------------------------------
@@ -114,7 +114,7 @@ obstacles that can possibly collide with the robot.
 
 In DWA the robot is not represented in X and Y coordinates but rather in the velocity search space with translation velocity v and the rotational velocity w as axes. 
 
-.. thumbnail:: /_images/ai_training/dwa1.png
+.. thumbnail:: /_images/autonomous_driving/day_one/dwa1.png
 
 |
 
@@ -140,4 +140,4 @@ In the dynamic window, the objective function *G(v, w)* is used to calculate the
 that maximizes the objective function which considers the direction, velocity and collision of the robot. With plotting, we can find optimal
 velocity among various *v* and *w* options to destination. 
 
-.. thumbnail:: /_images/ai_training/dwa2.png
+.. thumbnail:: /_images/autonomous_driving/day_one/dwa2.png

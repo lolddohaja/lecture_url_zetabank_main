@@ -29,31 +29,31 @@ positional representation that is in quaternion form which allows for more detai
 For startersm we would need the center X, Y information of our robot as well as the wheel-to-wheel distance in D, and wheel radius for dead 
 reckoning.
 
-.. thumbnail:: /_images/ai_training/dead_reckoning.png
+.. thumbnail:: /_images/autonomous_driving/day_one/dead_reckoning.png
 
 |
 
 Assuming our robot has traveled a short distance for a *T* amount of time, with each wheel reporting the amount of motor rotation done in
 a encoded value, we would first calculate the rotational speed of each wheels.
 
-.. thumbnail:: /_images/ai_training/rotational_v.png
+.. thumbnail:: /_images/autonomous_driving/day_one/rotational_v.png
 
 |
 
 With the angular velocity of the wheels, we can calculate the linear velocity (*v_k*) and the angular velocity (*w_k*) of our robot. 
 
-.. thumbnail:: /_images/ai_training/robot_v.png
+.. thumbnail:: /_images/autonomous_driving/day_one/robot_v.png
 
 |
 
 
 With these velocity values we are able to refer our positional value k+1 (where k is our initial position). 
 
-.. thumbnail:: /_images/ai_training/position.png
+.. thumbnail:: /_images/autonomous_driving/day_one/position.png
 
 |
 
-.. thumbnail:: /_images/ai_training/position2.png
+.. thumbnail:: /_images/autonomous_driving/day_one/position2.png
 
 
 

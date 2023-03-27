@@ -11,8 +11,8 @@ Introduction
 
 
 
-.. thumbnail:: /_images/ai_training/slam_intro.png
+.. thumbnail:: /_images/autonomous_driving/day_one/slam_intro.png
 
-.. thumbnail:: /_images/ai_training/slam_intro2.png
+.. thumbnail:: /_images/autonomous_driving/day_one/slam_intro2.png
 
-.. thumbnail:: /_images/ai_training/slam_intro3.png
+.. thumbnail:: /_images/autonomous_driving/day_one/slam_intro3.png
