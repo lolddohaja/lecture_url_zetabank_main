@@ -16,3 +16,17 @@ Q&A session
             <li>In our current world, many AI solutions are being applied to many different fields. How should we prepare and study in this field? </li>
         </ul>
     </div>
+
+.. raw:: html
+
+    <div style="background: #EDCAED" class="admonition note custom">
+        <p style="background: #EE82EE" class="admonition-title">
+            ChatGPT Session
+        </p>
+
+        <ul>
+            We've experienced Pose-ResNet18-Body, Pose-ResNet18-Hand, Pose-DenseNet121-Body, SSD-Mobilenet-v1, SSD-Mobilenet-v2, and SSD-Inception-v2 examples earlier.
+        </ul>
+            Let's see the characteristics and differences of these through ChatGPT.
+        </ul>
+    </div>

@@ -25,8 +25,8 @@ Q&A session
         </p>
 
         <ul>
-            We've experienced GoogleNet and AlexNet examples earlier.
+            We've experienced fcn-resnet18-cityscapes, 	fcn-resnet18-deepscene, fcn-resnet18-mhp, fcn-resnet18-voc, fcn-resnet18-sun, examples earlier.
         </ul>
-            Let's see the characteristics and differences between these two through ChatGPT.
+            Let's see the characteristics and differences between of these through ChatGPT.
         </ul>
     </div>
