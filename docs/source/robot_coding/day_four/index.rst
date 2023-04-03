@@ -1,7 +1,8 @@
-AI Robot Competition Project
-=====================
+Day Four Lecture
+====================
 
-Here are the contents for Day Four Lecture:
+
+Here are the contents for Four Day Lecture:
 
 .. toctree:: 
 
