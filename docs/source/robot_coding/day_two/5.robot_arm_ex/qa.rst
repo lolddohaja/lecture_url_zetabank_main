@@ -12,7 +12,7 @@ Q&A session
         
         Sample Questions:
         <ul>
-            <li></li>
-            <li></li>
+            <li>Can new jobs be created as artificial intelligence technology is developed for robot arms? If so, what types of jobs could be created?</li>
+            <li>As artificial intelligence technology for robot arms develops, how might the interaction between humans and robots change? And what are some of the social implications of these changes?</li>
         </ul>
     </div>

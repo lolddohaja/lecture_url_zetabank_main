@@ -12,7 +12,7 @@ Q&A session
         
         Sample Questions:
         <ul>
-            <li></li>
-            <li></li>
+            <li>With the development of object recognition technology, the range of tasks that robot arms can perform is expanding. How can this development be utilized in the corporate and industrial sectors? And what are the social implications of this technology?</li>
+            <li>As object recognition technology for robot arms advances, the accuracy and speed of recognition have improved, but there are still problems in some cases. How can we address these issues?</li>
         </ul>
     </div>
