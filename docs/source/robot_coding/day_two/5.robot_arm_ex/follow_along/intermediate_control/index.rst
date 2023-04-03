@@ -1,4 +1,4 @@
-Basic Robot Arm Control
+Intermediate Robot Arm Control
 ===========================
 
 Here are the follow along contents:
