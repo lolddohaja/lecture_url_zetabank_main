@@ -7,7 +7,7 @@ Here are the contents for this section:
 
 .. toctree:: 
 
-    follow_along/index
+    advanced_control/index
     explanation
     code_explanation/index
     mission/index
