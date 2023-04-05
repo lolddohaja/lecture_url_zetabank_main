@@ -1,4 +1,4 @@
-Dancing With Music!
+Dancing With Music 2!
 ======================
 
 .. raw:: html

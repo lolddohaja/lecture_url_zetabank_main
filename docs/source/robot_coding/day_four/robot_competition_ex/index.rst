@@ -8,7 +8,6 @@ Here are the contents for this section:
 .. toctree:: 
 
     sound/index
-    explanation
     code_explanation/index
     mission/index
     discussion
