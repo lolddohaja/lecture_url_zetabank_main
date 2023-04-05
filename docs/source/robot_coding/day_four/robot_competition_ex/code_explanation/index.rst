@@ -16,4 +16,4 @@ The ``robot_sound`` topic recieves integer array of size 3: ``[slot1, slot2, slo
 
 - **slot1**: Recieves binary integer (1, 0) dictating whether to play the sound (1) or stop the sound (0).
 - **slot2**: File ID (ranges from 0 ~ 9).
-- **slot3**: Directory ID. (set to 1)
+- **slot3**: Directory ID. (set to 1).

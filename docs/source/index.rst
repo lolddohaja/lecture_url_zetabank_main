@@ -124,7 +124,11 @@ In Education Provided by ZetaBank:
     :hidden:
     :caption: Robot Coding Practice Day 4
 
-    robot_coding/day_four/robot_competition_ex/index
+    robot_coding/day_four/robot_competition_ex/sound/index
+    robot_coding/day_four/robot_competition_ex/code_explanation/index
+    robot_coding/day_four/robot_competition_ex/mission/index
+    robot_coding/day_four/robot_competition_ex/discussion
+    robot_coding/day_four/robot_competition_ex/qa
     
 
 .. toctree:: 
