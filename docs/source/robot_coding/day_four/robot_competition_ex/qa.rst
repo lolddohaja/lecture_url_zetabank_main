@@ -12,7 +12,7 @@ Q&A session
         
         Sample Questions:
         <ul>
-            <li>What are some of the real life examples which utilizes robot arms?</li>
-            <li>With our examples we were able to control our Robot Arm using AI. Where can this be applied in the field?</li>
+            <li>What is the role of a robotic arm in the creative process of art-making? How does the use of a robotic arm change the way we approach art-making and the final artwork itself?</li>
+            <li>How does the incorporation of a robotic arm into art-making affect the experience and interpretation of the artwork? What are the implications for the future of art and technology as these tools continue to evolve and be used in creative processes?</li>
         </ul>
     </div>
