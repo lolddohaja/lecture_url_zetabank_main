@@ -1,0 +1,42 @@
+How are GoogleNet and AlexNet?
+-------------------------------
+
+Although GoogleNet and AlexNet both use a CNN as their backbone, they are different in many ways.
+One of the main differences is the number of layers in each network.
+GoogleNet has 22 layers, whereas AlexNet has only 8.
+
+In addition to the number of layers, the arrangements of the CNN in each network also differ.
+For example, GoogleNet uses a 1x1 convolutional layer, while AlexNet does not.
+Furthermore, GoogleNet utilizes a multi-branch architecture with multiple Inception modules, while AlexNet has a simpler architecture with fewer layers.
+
+These differences in architecture result in different levels of performance and efficiency for each network.
+For instance, GoogleNet has been shown to perform better on some datasets with higher accuracy, while AlexNet is faster and requires less memory.
+
+To summarize, both GoogleNet and AlexNet use CNNs to process images, but their architectures are different in terms of the number of layers, arrangements, and additional layers and settings.
+These differences lead to varying levels of performance and efficiency for each network.
+
+
++--------------+--------------+-------------+
+| Architecture | GoogleNet    | AlexNet     |
++==============+==============+=============+
+| Number of    | 22           | 8           |
+| Layers       |              |             |
++--------------+--------------+-------------+
+| Convolution  | Includes 1x1 | Does not    |
+| Layers       | convolution  | include     |
++--------------+--------------+-------------+
+| Multi-branch | Yes, uses    | No, simpler |
+| Architecture | multiple     |             |
+|              | Inception    |             |
+|              | modules      |             |
++--------------+--------------+-------------+
+| Input size   | Accepts      | Requires a  |
+|              | arbitrary    | fixed input |
+|              | input sizes  | size of 224 |
++--------------+--------------+-------------+
+| Performance  | Higher       | Lower       |
+|              | accuracy,    | accuracy,   |
+|              | but slower   | but faster  |
+|              | and requires | and requires|
+|              | more memory  | less memory |
++--------------+--------------+-------------+

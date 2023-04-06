@@ -1,0 +1,15 @@
+New concept experience! Introductory course for beginners in coding
+===================================================================
+
+"New Concept Experience" is an introductory coding course designed to teach beginner coders about cutting-edge technologies such as pose and gesture estimation, object detection using SSD-MobileNet-v2, robot control with ROS, and building their own robots.
+By emphasizing hands-on experience and interactive learning, the course aims to provide a unique approach to coding education that will equip students with the skills they need to work with these exciting technologies.
+Whether you're interested in pursuing a career in robotics or simply want to learn a new skill, this course is the perfect starting point for your coding journey.
+
+
+.. toctree:: 
+    :maxdepth: 1
+
+    2.ai_pose_detect/1.index
+    3.robot_control_move/1.index
+    4.make_robot/1.index
+

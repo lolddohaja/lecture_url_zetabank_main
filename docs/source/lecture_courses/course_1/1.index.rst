@@ -1,0 +1,14 @@
+Experience new AI robot technology
+====================================
+
+New AI robot technology offers exciting opportunities for people to interact with advanced machines that utilize artificial intelligence.
+However, ethical and societal implications must be considered as this technology evolves rapidly. 
+Developing AI robots that align with ethical and moral principles is essential to ensure that the benefits outweigh the risks.
+With responsible development, AI robots have the potential to revolutionize society and improve human well-being.
+
+.. toctree:: 
+    :maxdepth: 1
+
+    2.robot_control/1.index
+    3.ai_image_recognition/1.index
+    4.slam_navigation/1.index

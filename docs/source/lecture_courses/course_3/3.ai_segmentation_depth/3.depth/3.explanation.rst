@@ -1,0 +1,36 @@
+Overall Explanation
+====================
+
+Overview
+---------
+
+Depth sensing is an important capability for many robotic applications, including mapping, navigation, and obstacle detection.
+In the past, depth sensing required specialized stereo or RGB-D cameras.
+However, recent advances in deep neural networks (DNNs) have made it possible to infer depth from a single monocular image using a technique called mono depth.
+This breakthrough has the potential to significantly reduce the cost and complexity of depth sensing for a wide range of robotic applications.
+
+
+The MIT FastDepth paper presents one such approach to achieving mono depth using Fully-Convolutional Networks (FCNs).
+By training FCNs on large datasets of stereo or RGB-D images, FastDepth is able to learn to predict accurate depth maps from a single image.
+This technique is not only more affordable than traditional depth sensing methods, but also more flexible, as it does not require specialized cameras.
+With the continued advancement of DNNs, mono depth has the potential to become a ubiquitous tool in the field of robotics, enabling robots to better navigate their environments and interact with the world around them.
+
+
+As you may have noticed, we have only one depth methods and results on our "*follow along*" step. 
+
+
+FCN-MobileNet
+--------------------
+
+While FCN-MobileNet is primarily designed for semantic segmentation tasks, it can also be used for depth estimation.
+Depth estimation is the task of estimating the distance from the camera to objects in the scene.
+
+
+To perform depth estimation using FCN-MobileNet, the network is trained on a dataset of stereo images, which are pairs of images captured from two slightly different perspectives.
+During training, the network learns to predict a dense depth map for each image in the pair.
+
+
+The advantage of using FCN-MobileNet for depth estimation is that it requires fewer computational resources than other deep neural network architectures commonly used for this task.
+This makes it well-suited for applications where computational resources are limited, such as on mobile devices or embedded systems.
+
+Overall, FCN-MobileNet's ability to perform both semantic segmentation and depth estimation tasks with high accuracy and low computational requirements makes it a versatile tool for a wide range of computer vision applications.

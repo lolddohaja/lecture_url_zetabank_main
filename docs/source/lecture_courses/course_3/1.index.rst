@@ -1,0 +1,14 @@
+Experience the future industry! AI Robot Academy
+================================================
+
+The AI Robot Academy offers a unique opportunity to experience the future of the robotics industry.
+The academy's curriculum includes cutting-edge technologies such as semantic segmentation, depthnet, robot arm basics, and driving robots.
+By providing hands-on experience with these technologies, the academy aims to equip students with the skills they need to succeed in the rapidly-evolving field of robotics.
+Whether you're interested in pursuing a career in robotics or simply want to learn more about this exciting field, the AI Robot Academy is the perfect place to start.
+
+.. toctree:: 
+    :maxdepth: 1
+
+    2.robot_driving_ros/1.index
+    3.ai_segmentation_depth/1.index
+

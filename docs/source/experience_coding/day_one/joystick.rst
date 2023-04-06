@@ -1,3 +1,0 @@
-Operating Robot via Joystick
-================================
-

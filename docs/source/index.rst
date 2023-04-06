@@ -34,7 +34,7 @@ To foster future talent, we from ZetaBank provides the Philosophy of Education.
 
 Education based on information cramming:
 
-   .. thumbnail:: /_images/ai_training/0.intro/cramming.jpg
+   .. thumbnail:: /_images/0.intro/cramming.jpg
       :width: 250
 |
 
@@ -42,13 +42,13 @@ In Education Provided by ZetaBank:
 
 - We Provide Self-Learning Opportunities:
 
-  .. thumbnail:: /_images/ai_training/0.intro/zeta_edu.jpg
+  .. thumbnail:: /_images/0.intro/zeta_edu.jpg
    :width: 250
 |
 
 - We Provide Communication and Cooperation Training:
 
-  .. thumbnail:: /_images/ai_training/0.intro/zeta_edu2.jpg
+  .. thumbnail:: /_images/0.intro/zeta_edu2.jpg
    :width: 250
 
 
@@ -68,49 +68,38 @@ In Education Provided by ZetaBank:
 
 
 .. toctree:: 
-    :maxdepth: 5
+    :caption: Experience new AI robot technology
     :hidden:
-    :caption: Coding Practice for Experience
 
-    experience_coding/day_one/index
-    experience_coding/day_two/index
-    experience_coding/day_three/index
-    experience_coding/day_four/index
-    experience_coding/day_five/index
+    lecture_courses/course_1/1.index
+    lecture_courses/course_1/2.robot_control/1.index
+    lecture_courses/course_1/3.ai_image_recognition/1.index
+    lecture_courses/course_1/4.slam_navigation/1.index
 
 
 
 .. toctree:: 
-    :maxdepth: 6
+    :caption: New approach to beginner coding education
     :hidden:
-    :caption: Robot Coding Practice Day 1
-
-    robot_coding/day_one/1.robot_control/index
-    robot_coding/day_one/2.ai_training/index
-    robot_coding/day_one/3.driving_ex/index
-    robot_coding/day_one/4.slam_nav/index
-    robot_coding/day_one/5.robot_arm_ex/index
-    robot_coding/day_one/6.cv/index
-    robot_coding/day_one/7.digital_twin/index
-    robot_coding/day_one/8.chat_gpt/index
-   
+    
+    lecture_courses/course_2/1.index
+    lecture_courses/course_2/2.ai_pose_detect/1.index
+    lecture_courses/course_2/3.robot_control_move/1.index
+    lecture_courses/course_2/4.make_robot/1.index
    
 .. toctree:: 
-    :maxdepth: 6
+    :caption: AI Robot Application & Utilization Academy
     :hidden:
-    :caption: Robot Coding Practice Day 2
    
-    robot_coding/day_two/1.robot_control/index
-    robot_coding/day_two/2.ai_training/index 
-    robot_coding/day_two/2.ai_training/object_detect/index
-    robot_coding/day_two/3.driving_ex/index
-    robot_coding/day_two/4.autonomous_games/index
-    robot_coding/day_two/5.robot_arm_ex/index
+    lecture_courses/course_3/1.index
+    lecture_courses/course_3/2.robot_driving_ros/1.index
+    lecture_courses/course_3/3.ai_segmentation_depth/1.index
+    lecture_courses/course_3/4.robot_arm_basic/1.index
 
 .. toctree:: 
     :maxdepth: 6
     :hidden:
-    :caption: Robot Coding Practice Day 3
+    :caption: Future Industry: AI Robot Academy
     
     robot_coding/day_three/1.robot_control/index
     robot_coding/day_three/2.sematic_seg/index 
@@ -122,19 +111,7 @@ In Education Provided by ZetaBank:
 .. toctree::
     :maxdepth: 6
     :hidden:
-    :caption: Robot Coding Practice Day 4
+    :caption: A New World with AI Robots
 
     robot_coding/day_four/index
     
-
-.. toctree:: 
-    :maxdepth: 6
-    :hidden:
-    :caption: Robot Coding Practice Day 5
-
-    robot_coding/day_five/index
-
-
-
-
-

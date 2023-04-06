@@ -34,7 +34,7 @@ To foster future talent, we from ZetaBank provides the Philosophy of Education.
 
 Education based on information cramming:
 
-   .. thumbnail:: /_images/ai_training/0.intro/cramming.jpg
+   .. thumbnail:: /_images/0.intro/cramming.jpg
       :width: 250
 |
 
@@ -42,11 +42,11 @@ In Education Provided by ZetaBank:
 
 - We Provide Self-Learning Opportunities:
 
-  .. thumbnail:: /_images/ai_training/0.intro/zeta_edu.jpg
+  .. thumbnail:: /_images/0.intro/zeta_edu.jpg
    :width: 250
 |
 
 - We Provide Communication and Cooperation Training:
 
-  .. thumbnail:: /_images/ai_training/0.intro/zeta_edu2.jpg
+  .. thumbnail:: /_images/0.intro/zeta_edu2.jpg
    :width: 250
