@@ -114,4 +114,3 @@ In Education Provided by ZetaBank:
     :caption: A New World with AI Robots
 
     robot_coding/day_four/index
-    
